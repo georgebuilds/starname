@@ -7,6 +7,12 @@ shout-outs are super appreciated.
 ## Pre-Reqs
 1) Install the iovnscli CLI tool and add it to PATH. Note that this CLI tool itself 
 has the pre-requisite of installing GoLang.
+
+- Install GoLang: https://golang.org/doc/install
+
+- Install iovnscli: https://github.com/iov-one/iovns
+
+
 ## Installation
 Install composer package
 ```bash
