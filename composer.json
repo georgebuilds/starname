@@ -1,5 +1,6 @@
 {
     "name": "georgebuilds/starname",
+    "license": "MIT",
     "description": "A PHP wrapper for the IOV Starname blockchain client",
     "type": "library",
     "authors": [
@@ -8,9 +9,6 @@
             "email": "george@georgebuilds.com"
         }
     ],
-    "require": {
-
-    },
     "autoload": {
         "psr-4": {
             "Starname\\": "src"

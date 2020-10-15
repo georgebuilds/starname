@@ -35,6 +35,8 @@ class Address {
         $address = new self();
         $address->mnemonic = $mnemonic;
 
+        // TODO get pub/priv keys from mneomnic and store them in props
+
         return $address;
     }
 
