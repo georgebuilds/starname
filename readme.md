@@ -8,9 +8,9 @@ shout-outs are super appreciated.
 1) Install the iovnscli CLI tool and add it to PATH. Note that this CLI tool itself 
 has the pre-requisite of installing GoLang.
 
-- Install GoLang: https://golang.org/doc/install
+    - Install GoLang: https://golang.org/doc/install
 
-- Install iovnscli: https://github.com/iov-one/iovns
+    - Install iovnscli: https://github.com/iov-one/iovns
 
 
 ## Installation
@@ -21,11 +21,11 @@ composer require georgebuilds/starname
 If you are using Laravel, you can provide custom values for the following 
 settings in your .env file
 
-**STARNAME_NODE_URL** (*rpc node. mainnet is used by default*)
+- **STARNAME_NODE_URL** (*rpc node. mainnet is used by default*)
 
-**STARNAME_CHAIN_ID** (*iov-mainnet-2 is default*)
+- **STARNAME_CHAIN_ID** (*iov-mainnet-2 is default*)
 
-**STARNAME_CLI_PATH** (*"iovnscli" without full path is default*)
+- **STARNAME_CLI_PATH** (*"iovnscli" without full path is default*)
     
 ## Usage
 ```php
